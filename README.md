@@ -11,6 +11,7 @@ Feature :
 - mirror zone-h
 - can edit,upload,delete,rename,change permissions a file
 - rename,delete folder
+- You can use the latest shell without having to download it again
 
 why minishell ? because size mini :v
 
